@@ -1,2 +1,4 @@
-# linux-hardening
-linux hardening tutorial
+# Securtiy update list
+```
+apt list --upgradeable | grep security
+```
